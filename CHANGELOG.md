@@ -1,5 +1,17 @@
 # @headstartwp/headstartwp
 
+## 1.0.1
+
+### Patch Changes
+
+- 3f43798: Automate plugin versioning
+
+## 1.0.0
+
+### Major Changes
+
+- 1f4491f: Renaming to HeadstartWP
+
 ## 1.0.0-next.0
 
 ### Major Changes
