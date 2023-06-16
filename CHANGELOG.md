@@ -1,5 +1,11 @@
 # @headstartwp/headstartwp
 
+## 1.0.6
+
+### Patch Changes
+
+- 62ac6b36: Fixing typos.
+
 ## 1.0.5
 
 ### Patch Changes
@@ -152,13 +158,13 @@
 
 ### Patch Changes
 
-- e827579: Instead of only checking for HEAD requests, check for a custom header for skiping redirect to the front-end url
+- e827579: Instead of only checking for HEAD requests, check for a custom header for skipping redirect to the front-end url
 
 ## 0.5.2-next.0
 
 ### Patch Changes
 
-- e827579: Instead of only checking for HEAD requests, check for a custom header for skiping redirect to the front-end url
+- e827579: Instead of only checking for HEAD requests, check for a custom header for skipping redirect to the front-end url
 
 ## 0.5.1
 
